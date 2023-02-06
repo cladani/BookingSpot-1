@@ -4,7 +4,7 @@ export default function () {
   return (
     <>
 
-      <h1>hello navbar</h1>      
+      <h1>hello</h1>      
     </>
   )
 }
